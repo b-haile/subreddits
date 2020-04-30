@@ -28,7 +28,7 @@ The data has been pulled from the relevant subreddits using the Pushshift API.
 ### Data Dictionary
 
 |Feature|Type|Description|
-|---|---|---|---|
+|---|---|---|
 |title|object|The title of the subreddit post|
 |subreddit|int|0: Rooster Teeth, 1: Castle Super Beast|
 
